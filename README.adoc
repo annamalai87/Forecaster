@@ -1,0 +1,16 @@
+== Forecaster
+
+Allocates features to teams based on feautre priority and team capacity.
+
+=== Local Setup
+
+Install Python 3
+
+https://www.python.org/downloads/[Link to download python3]
+
+
+=== Execution
+```
+python3 forecast.py <path to input excel>
+
+```
